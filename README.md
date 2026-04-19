@@ -12,7 +12,7 @@ Aquí algunas de las herramientas con las que trabajo:
 
 | Categoría | Tecnologías |
 | :--- | :--- |
-| **Cloud** | AWS, Azure, Google Cloud |
+| **Cloud** | AWS |
 | **Data Analytics** | Python (Pandas, Numpy), SQL, Tableau/Power BI |
 | **IT Ops** | Linux, Docker, Scripts Bash |
 | **Web Development** | HTML5, CSS3, JavaScript, PHP |
