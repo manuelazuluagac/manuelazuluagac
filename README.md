@@ -17,6 +17,15 @@ Aquí algunas de las herramientas con las que trabajo:
 | **IT Ops** | Linux, Docker, Scripts Bash |
 | **Web Development** | HTML5, CSS3, JavaScript, PHP |
 
+## 🎓 Trayectoria Académica
+Además de mis proyectos profesionales, mantengo un registro de mi aprendizaje y laboratorios universitarios. 
+Puedes explorar mis proyectos académicos aquí:
+
+👉 **[Ver mi Portafolio Académico](https://github.com/mazuluagac)** 🏛️
+*(Proyectos en PHP, Python, Docker y más)*
+
+---
+
 ## 📈 Estadísticas de GitHub
 ![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=manuelazuluagac&show_icons=true&theme=radical)
 
